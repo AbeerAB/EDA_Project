@@ -12,8 +12,9 @@ o	What is change in the highest furnishings, household equipment and routine hou
 	Columns: 
 	 + General Index :Data type: Text
 	 + Year:	Data type: Integer
-	 + 	Index Numbers, Weight, Rate of change, Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sept, Oct, Nov, De	:Data type: Float
-  Rows: 377 rows
+	 + 	Index Numbers, Weight, Rate of change, Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sept, Oct, Nov, Des	:Data type: Float
+	  	
+	Rows: 377 rows
 
 -	Tools:
 o	Programs: Microsoft Excel, DB browser for SQLite, Anaconda navigator, python.
