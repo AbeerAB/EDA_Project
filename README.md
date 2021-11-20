@@ -12,6 +12,8 @@ The dataset contains monthly and annually prices changes during 2019 and 2020 as
 •	Python
 •	Statistics library
 •	Matplotlib and Seaborn 
+•	Bar, Scatter and Plot Charts
 •	Anaconda and Jupiter notebook
 •	SQLite and DB browser for SQLite
 •	NumPy and Pandas for data manipulation
+
