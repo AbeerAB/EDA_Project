@@ -8,17 +8,10 @@ The goal of this project was to use exploratory data analysis approach to predic
 The dataset contains monthly and annually prices changes during 2019 and 2020 as float, Index numbers per month and general index as float, year column as integer, and month as text. There are 24 rows and 7 columns.
 
 <h3>Tools</h3>
-•	NumPy and Pandas for data manipulation
-
-•	Matplotlib and Seaborn 
-
-•	SQLite and DB browser for SQLite
-
-•	Statistics library
-
-•	Python
-
 •	Canva
-
+•	Python
+•	Statistics library
+•	Matplotlib and Seaborn 
 •	Anaconda and Jupiter notebook
-
+•	SQLite and DB browser for SQLite
+•	NumPy and Pandas for data manipulation
