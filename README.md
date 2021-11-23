@@ -4,7 +4,7 @@ Abeer Almdani
 
 ## Problem statement
 The goal of this project was to use exploratory data analysis approach to predict the best month to organize furnishings, household equipment event in Saudi Arabia that has the highest consumer prices for furniture and highest arithmetic average over two years to help improve event revenues. 
-Question: What is the best month to hold the furniture event?
+### Question: What is the best month to hold the furniture event?
 
 
 ## Data Description
